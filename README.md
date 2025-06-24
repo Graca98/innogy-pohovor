@@ -79,4 +79,9 @@ python make_zip.py
   - stahování + hash
   - uložení metadat
 
-Viz také: [Odhad provozního modelu a nákladů](Odhad_provozniho_modelu.md)
+---
+
+## 📄 Doplňující dokumenty
+
+- [⏱️ Odhad časové náročnosti](Odhad_prace.md)
+- [📊 Odhad provozního modelu](Odhad_provozniho_modelu.md)
