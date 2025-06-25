@@ -1,0 +1,17 @@
+# 📁 Výstupy, které se nemají verzovat
+/data/pdfs/
+/data/screenshots/
+/data/metadata.json
+/data/metadata_archive/
+/data/integrity_check.csv
+/data.zip
+
+# 🧪 Výstupy z testování
+__pycache__/
+*.pyc
+
+# 💻 IDE/OS soubory
+*.DS_Store
+*.log
+.vscode/
+.idea/
