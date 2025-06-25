@@ -73,6 +73,7 @@ def download_and_hash_pdfs(urls):
     session = init_session()
 
     for url in urls:
+        # Z URL získá název souboru
         file_name = url.split("/")[-1].split("?")[0]
         file_path = os.path.join(PDF_DIR, file_name)
 
